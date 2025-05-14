@@ -17,3 +17,4 @@ A fun and interactive browser-based game where you control a dinosaur that jumps
 - Avoid colliding with obstacles to keep the game going.
 - Once you hit an obstacle, the game ends. Click **Play Again** to restart.
 
+🔗 **Live Website:** [dinogamebypunit.netlify.app](https://dinogamebypunit.netlify.app/)
